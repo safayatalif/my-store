@@ -1,21 +1,7 @@
-import React from 'react';
+import React from 'react'
 
-const StorePage = () => {
-    return (
-        <div>
-
-
-            
-        </div>
-    );
-};
-
-export default StorePage;
-
-const ProductListing = ()=> {
- 
-}
-
-const CategoryListing = ()=> {
- 
+export default function storePage() {
+  return (
+    <div>storePage</div>
+  )
 }
